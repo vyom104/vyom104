@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA , Android Development**
 
-- 📫 How to reach me **vyomgupta5561@gmail.com**
+- 📫 You can reach me on **vyomgupta5561@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
